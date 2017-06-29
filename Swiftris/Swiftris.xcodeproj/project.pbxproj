@@ -29,6 +29,7 @@
 		FCD3441F1F02C13F00C34B9D /* JShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCD3441E1F02C13F00C34B9D /* JShape.swift */; };
 		FCD344211F02C19B00C34B9D /* SShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCD344201F02C19B00C34B9D /* SShape.swift */; };
 		FCD344231F02C22000C34B9D /* ZShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCD344221F02C22000C34B9D /* ZShape.swift */; };
+		FCD344261F02CA2700C34B9D /* Swiftris.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCD344251F02CA2700C34B9D /* Swiftris.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		FCD3441E1F02C13F00C34B9D /* JShape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JShape.swift; sourceTree = "<group>"; };
 		FCD344201F02C19B00C34B9D /* SShape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SShape.swift; sourceTree = "<group>"; };
 		FCD344221F02C22000C34B9D /* ZShape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZShape.swift; sourceTree = "<group>"; };
+		FCD344251F02CA2700C34B9D /* Swiftris.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Swiftris.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				FCD3441E1F02C13F00C34B9D /* JShape.swift */,
 				FCD344201F02C19B00C34B9D /* SShape.swift */,
 				FCD344221F02C22000C34B9D /* ZShape.swift */,
+				FCD344251F02CA2700C34B9D /* Swiftris.swift */,
 			);
 			path = Swiftris;
 			sourceTree = "<group>";
@@ -204,6 +207,7 @@
 				FCD344171F02B94A00C34B9D /* SquareShape.swift in Sources */,
 				FC4BE88D1EFD9060003B89C4 /* GameScene.swift in Sources */,
 				FCD3441F1F02C13F00C34B9D /* JShape.swift in Sources */,
+				FCD344261F02CA2700C34B9D /* Swiftris.swift in Sources */,
 				FCD344151F02AE6A00C34B9D /* Shape.swift in Sources */,
 				FCD344111EFDA8BD00C34B9D /* Array2D.swift in Sources */,
 				FCD344191F02BA4400C34B9D /* TShape.swift in Sources */,
